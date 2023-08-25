@@ -1,0 +1,9 @@
+
+
+Khía cạnh 1: Nội dung - Neutral
+Khía cạnh 2: Chất lượng - Positive
+Khía cạnh 3: Đóng gói, giao hàng, dịch vụ, giá cả - Positive
+
+Khía cạnh 1: Nội dung, chất lượng: Positive
+Khía cạnh 2: Đóng gói, giao hàng: Positive
+Khía cạnh 3: Giá cả: Positive

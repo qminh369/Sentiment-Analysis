@@ -1,0 +1,36 @@
+Các câu bình luận được phân loại theo sắc thái như sau:
+0 - Trung lập
+1 - Tích cực
+2 - Tích cực
+3 - Tích cực
+4 - Trung lập
+Các câu bình luận được phân loại theo sắc thái như sau:
+5 - Trung lập
+6 - Tích cực
+7 - Tích cực
+8 - Tích cực
+9 - Tích cực
+Các câu bình luận được phân loại theo sắc thái như sau:
+10 - Trung lập
+11 - Trung lập
+12 - Tiêu cực
+13 - Tích cực
+14 - Tích cực
+Các câu bình luận đã cho có các sắc thái như sau:
+0 - Trung lập
+1 - Tích cực
+2 - Tích cực
+3 - Tích cực
+4 - Trung lập
+Các câu bình luận đã cho có các sắc thái như sau:
+5 - Trung lập
+6 - Tích cực
+7 - Tích cực
+8 - Tích cực
+9 - Tích cực
+Các câu bình luận đã cho có các sắc thái như sau:
+10 - Trung lập
+11 - Trung lập
+12 - Tiêu cực
+13 - Tích cực
+14 - Tích cực

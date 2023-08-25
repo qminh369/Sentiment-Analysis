@@ -1,0 +1,8 @@
+Đây là các câu về chủ đề bình luận khi mua sách trên trang thương mại điện tử
+Hãy thực hiện các yêu cầu sau:
+1- Xác định các khía cạnh, đối tượng cho từng câu bằng cách xác định các từ khóa liên quan về chủ đề sách (nội dung, chất lượng, đóng gói, giao hàng, dịch vụ, giá cả), đưa ra tối đa 3 khía cạnh
+2- Đưa ra một trong ba sắc thái: positive, negative, neutral cho từng khía cạnh đó.
+3- Tổng hợp kết quả bằng trình bày ra một file csv gồm các cột: STT, Decisions
+4- Cột "Decisions" bao gồm khía cạnh và sắc thái với cú pháp: "{""khía cạnh"": ""sắc thái""}" 
+Chỉ viết ra câu trả lời dưới dạng csv (chỉ làm nhiệm vụ 4)
+Các câu:

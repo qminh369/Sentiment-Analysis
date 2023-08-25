@@ -1,0 +1,18 @@
+STT,Decisions
+0,"{""nội dung"": ""positive"", ""chất lượng"": ""neutral"", ""đóng gói"": ""positive""}"
+1,"{""nội dung"": ""positive"", ""chất lượng"": ""positive"", ""dịch vụ"": ""positive""}"
+2,"{""nội dung"": ""positive"", ""đóng gói"": ""positive"", ""giao hàng"": ""positive""}"
+3,"{""nội dung"": ""positive"", ""plot twist"": ""positive"", ""ngôi kể"": ""positive""}"
+4,"{""nội dung"": ""positive"", ""ngôn ngữ"": ""positive"", ""độc hại"": ""negative""}"
+STT,Decisions
+5,"{""đóng gói"": ""positive"", ""giao hàng"": ""negative"", ""dịch vụ"": ""neutral""}"
+6,"{""giao hàng"": ""positive"", ""nội dung"": ""positive"", ""đóng gói"": ""neutral""}"
+7,"{""giao hàng"": ""positive"", ""đóng gói"": ""positive"", ""phụ kiện"": ""positive""}"
+8,"{""nội dung"": ""positive"", ""hình thức"": ""positive"", ""cảm xúc"": ""positive""}"
+9,"{""nội dung"": ""positive"", ""giá cả"": ""positive"", ""chất lượng"": ""positive""}"
+STT,Decisions
+10,"{""giao hàng"": ""positive"", ""đóng gói"": ""positive"", ""nội dung"": ""neutral""}"
+11,"{""chất lượng"": ""positive"", ""giao hàng"": ""neutral"", ""đóng gói"": ""positive""}"
+12,"{""nội dung"": ""positive"", ""giao hàng"": ""negative"", ""đóng gói"": ""positive""}"
+13,"{""nội dung"": ""positive"", ""đóng gói"": ""positive"", ""giao hàng"": ""positive""}"
+14,"{""nội dung"": ""positive"", ""chất lượng"": ""positive"", ""đóng gói"": ""positive""}"

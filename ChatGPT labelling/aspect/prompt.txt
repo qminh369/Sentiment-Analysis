@@ -1,0 +1,15 @@
+Đây là các câu về chủ đề bình luận khi mua sách trên trang thương mại điện tử
+
+Hãy thực hiện các yêu cầu sau:
+
+1- Xác định các khía cạnh, đối tượng cho từng câu bằng cách xác định các từ khóa liên quan về chủ đề sách (nội dung, chất lượng, đóng gói, giao hàng, dịch vụ, giá cả), đưa ra tối đa 3 khía cạnh
+2- Đưa ra một trong ba sắc thái: positive, negative, neutral cho từng khía cạnh đó.
+
+Các câu:
+
+85749,"dịch vụ của tiki vô cùng tốt. giao hàng rất nhanh. mình đặt rạng sáng hôm nay thì chiều đã nhận được boxset. tuy nhiên boxset của mình lại rách 1 vết. buồn không tả được. mua truyện sưu tầm mà thế này buồn cả ngày ấy. thôi thì sách bên trong đẹp, chất lượng dịch vụ tốt. mỗi tội sp mình bị lỗi do nhân phẩm thôi :((("
+85754,"thích anime, mua manga để sưu tập thêm. khá bất ngờ vì nét vẽ của manga lại tuyệt vời như thế! nét vẽ đẹp cực kì, nội dung độc đáo. cá nhân mình không thích loại boxset của kim đồng lắm, chất liệu giống hộp carton gấp lại. trong tập 1 còn lỗi sai chính tả, dịch thuật không ổn lắm sang các tập sau thì hết rồi. dịch vụ của tiki tốt: bảo quản, đóng gói cẩn thận. giao hàng đúng thời gian."
+85822,"cẩm nang dày và chi tiết. thái lan như thu nhỏ trong lòng bàn tay. tiki giao hàng nhanh, dịch vụ tốt!"
+86427,"quyển sách đầy đủ và chi tiết đi từ những kiến thức tổng quát căn bản đến những kiến thức chuyên ngành kiểm toán được trình bày khoa học, hợp lý. tiki giao hàng nhanh, dịch vụ tốt!"
+86691,"giá sale 12k cho một cuốn sách mới tinh về hình thức, chất lượng về nội dung. dịch vụ tiki chuẩn chỉ nữa. 10 điểm"
+86776,đúng hàng và mới nguyên rất hài lòng về sản phẩm và dịch vụ của tiki
